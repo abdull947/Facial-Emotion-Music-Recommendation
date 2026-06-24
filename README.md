@@ -1,4 +1,5 @@
-# 🎵 EmoTune — Emotion-Based Music Player
+# 🎵 Facial Emotion Music Recommendation System
+
 
 EmoTune aapki face dekh ke emotion detect karta hai aur us ke hisaab se Pakistani music play karta hai!
 
